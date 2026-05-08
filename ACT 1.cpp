@@ -20,4 +20,7 @@ int main () {
       negativeCont++;
     }
   }
+
+  cout << "Positive Numbers Entered." << positiveCount << endl;
+  
 }
