@@ -15,6 +15,8 @@ int main () {
       break;
     } else if (num > 0) {
       postiveCount++;
+    } else {
+      negativeCount++;
     }
   }
 }
