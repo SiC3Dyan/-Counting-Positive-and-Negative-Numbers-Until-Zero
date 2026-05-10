@@ -20,4 +20,7 @@ int main () {
       negativeCount++;
     }
   }
+
+  cout << "Positive Number enetered." << positiveCount << endl;
+  
 }
