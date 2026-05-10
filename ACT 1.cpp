@@ -22,5 +22,7 @@ int main () {
   }
 
   cout << "Positive Number enetered." << positiveCount << endl;
-  
+  cout << "Negative Number entered." << negativeCount << endl;
+
+  return 0;
 }
