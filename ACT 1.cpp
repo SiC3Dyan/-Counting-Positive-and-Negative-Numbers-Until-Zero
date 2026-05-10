@@ -9,6 +9,7 @@ int main () {
 
   while (true) 
   {
-    
+    cout << "Enter a Number: ";
+    cin >> num;
   }
 }
