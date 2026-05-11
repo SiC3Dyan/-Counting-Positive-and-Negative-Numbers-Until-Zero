@@ -12,5 +12,9 @@ int main () {
 
     cout << "Enter a Number: ";
     cin >> num;
+
+    if (num == 0) {
+      break;
+    }
   }
 }
