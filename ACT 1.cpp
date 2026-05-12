@@ -19,7 +19,8 @@ int main () {
     } else {
       negativeCount++;
     }
-    
   }
+
+  cout << "Positive Number  entered." << positiveCount << endl;
 
 }
