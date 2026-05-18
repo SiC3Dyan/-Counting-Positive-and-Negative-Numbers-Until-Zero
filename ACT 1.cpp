@@ -13,4 +13,6 @@ int main () {
       break;
     }
   }
+
+  cout << "Positive Numbers entered." << positiveCout << endl;
 }
