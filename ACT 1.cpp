@@ -5,4 +5,10 @@ int main () {
 
   int num;
   int = positiveCount = 0;
+  int = negativeCoount  = 0;
+
+  while (true) 
+  {
+    
+  }
 }
