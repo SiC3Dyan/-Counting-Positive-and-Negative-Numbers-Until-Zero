@@ -14,8 +14,10 @@ int main () {
     } else if (num > 0) {
       positiveCount++;
     } else {
-      nega
+      negativeCount++;
     }
   }
+
+  
 }
   
