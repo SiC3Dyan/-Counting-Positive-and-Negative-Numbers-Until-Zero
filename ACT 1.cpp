@@ -15,7 +15,9 @@ int main () {
       } else if (num > 0) {
         positiveCount++;
       } else {
-        
+        negativeCount++;
       }
     }
+
+  cout << "Positive Number entered." << positiveCount << endl;
 }
