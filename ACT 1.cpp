@@ -10,8 +10,10 @@ int main () {
   while (true) 
   {
     if (num == 0) {
-      break;
-    }
+      break; 
+    } else if (num > 0) {
+      positiveCount++;
+    } 
   }
 }
   
