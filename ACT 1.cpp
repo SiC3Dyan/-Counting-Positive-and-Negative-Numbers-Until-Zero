@@ -9,6 +9,10 @@ int main () {
 
   while (true) 
   {
+
+    else if (num == 0) {
+      break;
+    }
     
   }
   
