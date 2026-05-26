@@ -3,5 +3,8 @@ using namspace std;
 
 int main () {
 
-  int
+  int num;
+  int poositiveCount = 0;
+  int negativeCount = 0;
+  
 }
