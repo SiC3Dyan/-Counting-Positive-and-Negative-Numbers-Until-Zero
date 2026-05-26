@@ -18,6 +18,9 @@ int main () {
     }
   }
 
-  
+  coout << "Positive Numbers  entered." << positiveCount << endl;
+    coout << "Positive Numbers  entered." << positiveCount << endl;
+
+  return 0;
 }
   
