@@ -7,5 +7,8 @@ int main () {
   int positiveCount = 0;
   int negativeCount = 0;
 
-  
+  while (true) 
+  {
+    
+  }
 }
