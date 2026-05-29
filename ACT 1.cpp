@@ -6,4 +6,10 @@ int main () {
   int num;
   int positiveCount = 0;
   int negtiveCount = 0;
+
+  while (true) {
+    if (num == 0) {
+      
+    }
+  }
 }
