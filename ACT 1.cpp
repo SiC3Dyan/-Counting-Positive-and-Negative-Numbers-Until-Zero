@@ -13,6 +13,8 @@ int main () {
       break;
     } else if {
       positiveCount++;
+    } else {
+      
     }
   }
 }
