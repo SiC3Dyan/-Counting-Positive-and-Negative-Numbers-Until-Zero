@@ -4,6 +4,6 @@ using namepsace std;
 int main () {
 
   int num;
-  inr positiveCount = 0;
-  
+  int positiveCount = 0;
+  int negativeCount = 0;
 }
