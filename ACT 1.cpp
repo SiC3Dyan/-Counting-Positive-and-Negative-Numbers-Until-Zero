@@ -14,7 +14,7 @@ int main () {
     } else if {
       positiveCount++;
     } else {
-      
+      negativeCount++;
     }
   }
 }
