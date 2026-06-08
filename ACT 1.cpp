@@ -16,6 +16,7 @@ int main () {
     } else {
       negativeCount++;
     }
-    
   }
+
+  cout << Positive Numbers entered. << positiveCount << endl;
 }
