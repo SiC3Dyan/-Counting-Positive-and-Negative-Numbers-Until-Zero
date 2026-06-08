@@ -18,5 +18,8 @@ int main () {
     }
   }
 
-  cout << Positive Numbers entered. << positiveCount << endl;
+  cout << "Positive Numbers entered." << positiveCount << endl;
+  cout << "Negative Numbers entered." << negativeCount << endl;
+
+  
 }
