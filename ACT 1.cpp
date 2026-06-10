@@ -8,6 +8,9 @@ int main () {
   int negativeCount = 0;
 
   while (true) {
-    
+
+    if (num == 0) {
+      
+    }
   }
 }
