@@ -12,6 +12,10 @@ int main () {
       break;
     } else if (num > 0) {
       positiveCount++;
+    } else {
+      negativeCount++;
     }
   }
+
+  
 }
