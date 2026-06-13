@@ -9,6 +9,8 @@ int main () {
 
   while (true) {
 
-    if
+    if (num == 0) {
+      
+    }
   }
 }
